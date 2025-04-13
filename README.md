@@ -1,3 +1,5 @@
+https://cloud.dify.ai/explore/installed/391da913-6ae3-4103-bb6b-2dc6308b249c
+
 As travel resumed after the COVID-19 pandemic, airlines faced a shift in customer behavior and expectations. The cost distribution across different services changed, leading to a greater need for automation in customer support. The rise of digital transformation in the airline industry highlighted the importance of efficient, AI-powered chatbots to handle customer inquiries seamlessly.
 The Airline Chatbot is designed to enhance the customer experience by providing instant responses to common queries such as:
 Booking flights Checking flight status Understanding cancellation policies Providing baggage and meal information Collecting customer feedback This chatbot streamlines operations by handling repetitive inquiries, allowing airline staff to focus on more complex customer needs.
